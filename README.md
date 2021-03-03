@@ -1,5 +1,5 @@
 # ChatApp
-Chat application Projet to be written in react.js et firebase.
+Chat application Projet written in react.js et firebase.
 
 https://mychat-60198.firebaseapp.com/
 
